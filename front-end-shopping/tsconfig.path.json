@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@/assets/*": ["./assets/*"],
+      "@/components/*": ["./components/*"],
+      "@/contexts/*": ["./contexts/*"],
+      "@/fragments/*": ["./fragments/*"],
+      "@/hooks/*": ["./hooks/*"],
+      "@/layouts/*": ["./layouts/*"],
+      "@/locales/*": ["./locales/*"],
+      "@/providers/*": ["./providers/*"],
+      "@/queries/*": ["./queries/*"],
+      "@/routes/*": ["./routes/*"],
+      "@/screens/*": ["./screens/*"],
+      "@/stores/*": ["./stores/*"],
+      "@/theme/*": ["./theme/*"],
+      "@/types/*": ["./types/*"],
+      "@/utils/*": ["./utils/*"],
+      "@/App": ["./App.tsx"],
+      "@/config": ["./config.ts"]
+    }
+  }
+}
